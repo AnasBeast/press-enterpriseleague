@@ -1,0 +1,8 @@
+<svg id="vuesax_twotone_chart" data-name="vuesax/twotone/chart" xmlns="http://www.w3.org/2000/svg" width="22.383" height="22" viewBox="0 0 22.383 22">
+  <g id="chart">
+    <path id="Vector" d="M1.884,3.626A8.983,8.983,0,0,0,0,9.135,9.235,9.235,0,0,0,9.326,18.27a9.235,9.235,0,0,0,9.326-9.135A9.235,9.235,0,0,0,9.326,0" transform="translate(1.865 1.865)" fill="none" stroke="#2189d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M0,6.337a6.43,6.43,0,0,0,6.528,6.337,6.43,6.43,0,0,0,6.528-6.337A6.43,6.43,0,0,0,6.528,0" transform="translate(4.663 4.663)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,7.461A3.73,3.73,0,0,0,0,0" transform="translate(11.191 7.27)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H22.383V22H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

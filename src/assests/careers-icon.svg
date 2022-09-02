@@ -1,0 +1,12 @@
+<svg id="vuesax_twotone_briefcase" data-name="vuesax/twotone/briefcase" xmlns="http://www.w3.org/2000/svg" width="22.383" height="22" viewBox="0 0 22.383 22">
+  <g id="briefcase">
+    <path id="Vector" d="M0,2.642V1.89C0,.226,0,0,3.009,0h1.5C7.523,0,7.523.226,7.523,1.89v.752" transform="translate(7.43 1.881)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Group_638" data-name="Group 638" transform="translate(2.463 10.015)">
+      <path id="Vector-2" data-name="Vector" d="M3.762.94V1.9c0,1.025-.009,1.862-1.881,1.862S0,2.934,0,1.909V.94C0,0,0,0,.94,0H2.821C3.762,0,3.762,0,3.762.94Z" transform="translate(6.849 0.94)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M7.194,0A15.5,15.5,0,0,1,0,2.84" transform="translate(10.516)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0A15.312,15.312,0,0,0,6.94,2.6" transform="translate(0 0.253)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <path id="Vector-5" data-name="Vector" d="M0,0H22.383V22H0Z" transform="translate(22.383 22) rotate(180)" fill="none" opacity="0"/>
+    <path id="Vector-6" data-name="Vector" d="M5.353,15.046H12.8c3.742,0,4.412-1.514,4.608-3.357l.7-7.523C18.357,1.871,17.705,0,13.73,0H4.422C.448,0-.2,1.871.047,4.166l.7,7.523C.941,13.532,1.611,15.046,5.353,15.046Z" transform="translate(2.115 5.073)" fill="none" stroke="#2189d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

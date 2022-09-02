@@ -1,0 +1,8 @@
+<svg id="vuesax_twotone_lamp-charge" data-name="vuesax/twotone/lamp-charge" xmlns="http://www.w3.org/2000/svg" width="22.383" height="22" viewBox="0 0 22.383 22">
+  <g id="lamp-charge">
+    <path id="Vector" d="M1.038,0,.09,1.648c-.213.363-.035.664.381.664H1.6c.425,0,.594.3.381.664L1.038,4.625" transform="translate(10.153 7.3)" fill="none" stroke="#2189d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M4.009,14.215V13.187A7.54,7.54,0,0,1,0,7C0,2.617,4.354-.82,9.273.172a7.393,7.393,0,0,1,5.043,3.606c2,3.721-.105,7.673-3.2,9.4v1.028c0,.257.105.851-.919.851H4.928C3.876,15.065,4.009,14.684,4.009,14.215Z" transform="translate(3.641 1.768)" fill="none" stroke="#00297e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,.432a11.348,11.348,0,0,1,6.2,0" transform="translate(8.09 19.796)" fill="none" stroke="#2189d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H22.383V22H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>
