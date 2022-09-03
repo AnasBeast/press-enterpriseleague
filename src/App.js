@@ -1,5 +1,5 @@
 import './App.css';
-import React from 'react';
+import React, { useEffect } from 'react';
 import ReactDOM from 'react-dom';
 import NavBar from './components/navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -46,12 +46,12 @@ function App() {
   function closeModal() {
     setIsOpen(false);
   }
-  setTimeout(() => {
-    if(storage!=1){
+  useEffect(() => {
+    const timer = setTimeout(() => {
       openModal()
-    }
-  
-  }, 1000*10);
+    }, 1000*3);
+    return () => clearTimeout(timer);
+  }, []);
   document.title = 'Press | Enterprise League';
   document.image = 'Press | Enterprise League';
   window.onload=function(){
