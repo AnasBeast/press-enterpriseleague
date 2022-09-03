@@ -49,7 +49,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       openModal()
-    }, 1000*3);
+    }, 1000*10);
     return () => clearTimeout(timer);
   }, []);
   document.title = 'Press | Enterprise League';
